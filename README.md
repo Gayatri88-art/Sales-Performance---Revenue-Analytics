@@ -20,7 +20,7 @@ Go to the project directory and open ``` .pbix ``` file with Microsoft Power BI 
 
     `SELECT count(*) FROM customers;`
 
-1. Show transactions for Chennai market (market code for chennai is Mark001
+1. Show transactions for Chennai market market code for chennai is Mark001
 
     `SELECT * FROM transactions where market_code='Mark001';`
 
