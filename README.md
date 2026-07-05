@@ -53,7 +53,7 @@ and transactions.market_code="Mark001";`
 Power BI Dashboard Preview
 ============================
 
-![Page1](https://github.com/deepamkalekar/Sale-Data-Analysis-PowerBI/blob/master/Sales-key-insight.png)
+![Page1](https://github.com/Gayatri88-art/Sales-Performance---Revenue-Analytics/Sales-key-insight.png)
 ![Page2](https://github.com/deepamkalekar/Sale-Data-Analysis-PowerBI/blob/master/sales-profit-analysis.png)
 ![Page3](https://github.com/deepamkalekar/Sale-Data-Analysis-PowerBI/blob/master/sales-performance-insight.png)
 
